@@ -19,4 +19,4 @@ This project designs and implements the network infrastructure for Vic Modern Ho
 - **Port Security**: Limits unauthorized device access.
 
 ## Result
-![Hotel Network Design and Implementation Result]()
+![Hotel Network Design and Implementation Result](https://github.com/piyushkhonde14/Hotel-Network-Design-and-Implementation/blob/main/Hotel%20Network%20Design%20and%20Implementation/Hotel%20Network%20Design%20and%20Implementation%20S0.png)
